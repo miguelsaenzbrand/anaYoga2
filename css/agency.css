@@ -226,6 +226,7 @@ fieldset[disabled] .btn-xl.active {
     font-size: 1.5em;
   }
 }
+
 header {
   background-image: url('../img/logoYMarcaAbajo.jpg');
   background-repeat: no-repeat;
@@ -239,6 +240,7 @@ header {
   color: white;
 }
 header .intro-text {
+  height: 360px;
   padding-top: 100px;
   padding-bottom: 50px;
 }
@@ -283,7 +285,8 @@ section {
 }
 
 #team .frase{
-  font-size: 250%;
+  margin-top: 90px;
+  font-size: 400%;
   font-family: 'Sintony', sans-serif;
   }
 
